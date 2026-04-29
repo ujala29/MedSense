@@ -1,4 +1,4 @@
-# edSense AI
+# MedSense AI
 
 A full-stack AI system for analyzing medical health reports using advanced NLP and computer vision.
 
