@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+chroma_db/
+node_modules/
+dist/
+notes/
+.venv/
+venv/
+venvMedSense/
